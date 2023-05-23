@@ -1,0 +1,5 @@
+hosts
+install_redis.yml
+install_zabbix_agent.yml
+/etc/ansible/common/files/mentor/id_rsa.pub
+
