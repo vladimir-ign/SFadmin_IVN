@@ -1,0 +1,3 @@
+/home/SFadmin_IVN/ansible/*
+!/home/SFadmin_IVN/ansible/playbooks/install_zabbix_agent.yml
+!/home/SFadmin_IVN/ansible/playbooks/install_redis.yml
